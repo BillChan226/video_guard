@@ -1,0 +1,1499 @@
+{
+    "dataset/tweeload_0P3SBq.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 10
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual implication",
+            "Sexual content (Subtle)"
+        ]
+    },
+    "dataset/6jI9O-COF1oLChOZ.mp4": {
+        "timestamps": {
+            "0": [
+                {
+                    "start_time": 0,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 36
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual implication"
+        ]
+    },
+    "dataset/Y9wIiA0gRoQuAcrI.mp4": {
+        "timestamps": {
+            "2": [
+                {
+                    "start_time": 2,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)",
+                        "Harassment"
+                    ],
+                    "end_time": 3
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual implication",
+            "Harassment",
+            "Sexual content (Subtle)"
+        ]
+    },
+    "dataset/tweeload_Ri2air.mp4": {
+        "timestamps": {
+            "5": [
+                {
+                    "start_time": 5,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)",
+                        "Harassment"
+                    ],
+                    "end_time": 10
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual implication",
+            "Harassment",
+            "Sexual content (Subtle)"
+        ]
+    },
+    "dataset/tweeload_oGQxQN.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 6
+                }
+            ],
+            "9": [
+                {
+                    "start_time": 9,
+                    "labels": [
+                        "Violence & Harm"
+                    ],
+                    "end_time": 12
+                }
+            ],
+            "13": [
+                {
+                    "start_time": 13,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 14
+                }
+            ],
+            "18": [
+                {
+                    "start_time": 18,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 26
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Harassment"
+        ]
+    },
+    "dataset/1.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "None"
+                    ],
+                    "end_time": 3
+                }
+            ]
+        },
+        "overall_labels": [
+            "None"
+        ]
+    },
+    "dataset/tweeload_C8dPmM.mp4": {
+        "timestamps": {
+            "2": [
+                {
+                    "start_time": 2,
+                    "labels": [
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 5
+                }
+            ],
+            "6": [
+                {
+                    "start_time": 6,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 7
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual implication",
+            "Sexual content (Subtle)"
+        ]
+    },
+    "dataset/tweeload_hdFlIK.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "Sexual content (Subtle)",
+                        "Harassment",
+                        "Violence & Harm",
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 3
+                }
+            ],
+            "7": [
+                {
+                    "start_time": 7,
+                    "labels": [
+                        "Sexual content (Subtle)",
+                        "Harassment",
+                        "Violence & Harm",
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 15
+                }
+            ]
+        },
+        "overall_labels": [
+            "Illegal & Anti-social",
+            "Harassment",
+            "Violence & Harm",
+            "Sexual content (Subtle)"
+        ]
+    },
+    "dataset/tweeload_STDHka.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 3
+                }
+            ],
+            "10": [
+                {
+                    "start_time": 10,
+                    "labels": [
+                        "None"
+                    ],
+                    "end_time": 12
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Harassment",
+            "None"
+        ]
+    },
+    "dataset/tweeload_AfwJsr.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "Sexual content (Subtle)",
+                        "Harassment",
+                        "Violence & Harm",
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 5
+                }
+            ],
+            "6": [
+                {
+                    "start_time": 6,
+                    "labels": [
+                        "Sexual content (Subtle)",
+                        "Harassment",
+                        "Violence & Harm",
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 10
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Harassment",
+            "Sexual content (Subtle)",
+            "Illegal & Anti-social"
+        ]
+    },
+    "dataset/_9U2gJougXVMRJxX.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "Sexual content (Subtle)",
+                        "Sexual implication"
+                    ],
+                    "end_time": 6
+                }
+            ],
+            "7": [
+                {
+                    "start_time": 7,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 12
+                }
+            ],
+            "14": [
+                {
+                    "start_time": 14,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 16
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Subtle)",
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_L4N5Bq.mp4": {
+        "timestamps": {
+            "3": [
+                {
+                    "start_time": 3,
+                    "labels": [
+                        "Violence & Harm",
+                        "Illegal & Anti-social",
+                        "Terrorism"
+                    ],
+                    "end_time": 11
+                }
+            ],
+            "13": [
+                {
+                    "start_time": 13,
+                    "labels": [
+                        "Violence & Harm",
+                        "Illegal & Anti-social",
+                        "Terrorism"
+                    ],
+                    "end_time": 18
+                }
+            ],
+            "20": [
+                {
+                    "start_time": 20,
+                    "labels": [
+                        "Violence & Harm",
+                        "Illegal & Anti-social",
+                        "Terrorism"
+                    ],
+                    "end_time": 30
+                }
+            ],
+            "45": [
+                {
+                    "start_time": 45,
+                    "labels": [
+                        "Violence & Harm",
+                        "Illegal & Anti-social",
+                        "Terrorism"
+                    ],
+                    "end_time": 49
+                }
+            ],
+            "58": [
+                {
+                    "start_time": 58,
+                    "labels": [
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 66
+                }
+            ],
+            "86": [
+                {
+                    "start_time": 86,
+                    "labels": [
+                        "Illegal & Anti-social",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 89
+                }
+            ]
+        },
+        "overall_labels": [
+            "Terrorism",
+            "Violence & Harm",
+            "Illegal & Anti-social"
+        ]
+    },
+    "dataset/tweeload_OS42ke.mp4": {
+        "timestamps": {
+            "0": [
+                {
+                    "start_time": 0,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 2
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 3,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 6
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Subtle)",
+            "Sexual implication"
+        ]
+    },
+    "dataset/ssstwitter.com_1719152443478.mp4": {
+        "timestamps": {
+            "2": [
+                {
+                    "start_time": 2,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 6
+                }
+            ],
+            "7": [
+                {
+                    "start_time": 7,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 13
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Subtle)",
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_tD14ol.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 3
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_E19qnz.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 2
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 4,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 6
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Subtle)",
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_ngTlJP.mp4": {
+        "timestamps": {
+            "8": [
+                {
+                    "start_time": 8,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 18
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Harassment"
+        ]
+    },
+    "dataset/tweeload_gmTC6t.mp4": {
+        "timestamps": {
+            "0": [
+                {
+                    "start_time": 0,
+                    "labels": [
+                        "Violence & Harm"
+                    ],
+                    "end_time": 2
+                }
+            ],
+            "6": [
+                {
+                    "start_time": 6,
+                    "labels": [
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 8
+                }
+            ],
+            "13": [
+                {
+                    "start_time": 13,
+                    "labels": [
+                        "Violence & Harm"
+                    ],
+                    "end_time": 14
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Illegal & Anti-social"
+        ]
+    },
+    "dataset/tweeload_4xlD8i.mp4": {
+        "timestamps": {
+            "2": [
+                {
+                    "start_time": 2,
+                    "labels": [
+                        "Violence & Harm",
+                        "Harassment"
+                    ],
+                    "end_time": 4
+                }
+            ],
+            "6": [
+                {
+                    "start_time": 6,
+                    "labels": [
+                        "Violence & Harm"
+                    ],
+                    "end_time": 10
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Harassment"
+        ]
+    },
+    "dataset/tweeload_Q2V90G.mp4": {
+        "timestamps": {
+            "14": [
+                {
+                    "start_time": 14,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 18
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_7Jd90U.mp4": {
+        "timestamps": {
+            "7": [
+                {
+                    "start_time": 7,
+                    "labels": [
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 12
+                }
+            ]
+        },
+        "overall_labels": [
+            "Illegal & Anti-social"
+        ]
+    },
+    "dataset/tweeload_zCEbfJ.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 2
+                }
+            ],
+            "3": [
+                {
+                    "start_time": 3,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 4
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Subtle)",
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_M5wOsU.mp4": {
+        "timestamps": {
+            "6": [
+                {
+                    "start_time": 6,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 12
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_goL2Pe.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 4
+                }
+            ],
+            "11": [
+                {
+                    "start_time": 11,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 15
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Harassment"
+        ]
+    },
+    "dataset/tweeload_TekAI4.mp4": {
+        "timestamps": {
+            "0": [
+                {
+                    "start_time": 0,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 6
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_XPrynk.mp4": {
+        "timestamps": {
+            "0": [
+                {
+                    "start_time": 0,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 5
+                }
+            ],
+            "9": [
+                {
+                    "start_time": 9,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 13
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_3wH8ws.mp4": {
+        "timestamps": {
+            "0": [
+                {
+                    "start_time": 0,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 4
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 4,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 9
+                }
+            ],
+            "10": [
+                {
+                    "start_time": 10,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 12
+                }
+            ],
+            "13": [
+                {
+                    "start_time": 13,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 16
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Harassment"
+        ]
+    },
+    "dataset/i6dXddy42DY_abZS.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 5
+                }
+            ],
+            "7": [
+                {
+                    "start_time": 7,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 14
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Subtle)",
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_ltO7Wa.mp4": {
+        "timestamps": {
+            "13": [
+                {
+                    "start_time": 13,
+                    "labels": [
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 27
+                }
+            ],
+            "54": [
+                {
+                    "start_time": 54,
+                    "labels": [
+                        "Violence & Harm",
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 57
+                }
+            ],
+            "73": [
+                {
+                    "start_time": 73,
+                    "labels": [
+                        "Violence & Harm",
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 79
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Illegal & Anti-social"
+        ]
+    },
+    "dataset/tweeload_pcXCTQ.mp4": {
+        "timestamps": {
+            "10": [
+                {
+                    "start_time": 10,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 17
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Subtle)",
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_AOdqMK.mp4": {
+        "timestamps": {
+            "0": [
+                {
+                    "start_time": 0,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 23
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_ZVzdPo.mp4": {
+        "timestamps": {
+            "2": [
+                {
+                    "start_time": 2,
+                    "labels": [
+                        "Violence & Harm",
+                        "Harassment"
+                    ],
+                    "end_time": 20
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Harassment"
+        ]
+    },
+    "dataset/tweeload_frf1qJ.mp4": {
+        "timestamps": {
+            "45": [
+                {
+                    "start_time": 45,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm",
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 50
+                }
+            ],
+            "52": [
+                {
+                    "start_time": 52,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm",
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 58
+                }
+            ],
+            "60": [
+                {
+                    "start_time": 60,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 65
+                }
+            ],
+            "71": [
+                {
+                    "start_time": 71,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 84
+                }
+            ],
+            "100": [
+                {
+                    "start_time": 100,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 111
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Harassment",
+            "Illegal & Anti-social"
+        ]
+    },
+    "dataset/tweeload_CkxRDk.mp4": {
+        "timestamps": {
+            "0": [
+                {
+                    "start_time": 0,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm",
+                        "Illegal & Anti-social",
+                        "Terrorism"
+                    ],
+                    "end_time": 9
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Terrorism",
+            "Harassment",
+            "Illegal & Anti-social"
+        ]
+    },
+    "dataset/tweeload_i8wiJx.mp4": {
+        "timestamps": {
+            "0": [
+                {
+                    "start_time": 0,
+                    "labels": [
+                        "Violence & Harm"
+                    ],
+                    "end_time": 3
+                }
+            ],
+            "35": [
+                {
+                    "start_time": 35,
+                    "labels": [
+                        "Harassment"
+                    ],
+                    "end_time": 37
+                }
+            ],
+            "49": [
+                {
+                    "start_time": 49,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 56
+                }
+            ],
+            "58": [
+                {
+                    "start_time": 58,
+                    "labels": [
+                        "Violence & Harm"
+                    ],
+                    "end_time": 59
+                }
+            ],
+            "70": [
+                {
+                    "start_time": 70,
+                    "labels": [
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 75
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Harassment",
+            "Illegal & Anti-social"
+        ]
+    },
+    "dataset/tweeload_fPGMcu.mp4": {
+        "timestamps": {},
+        "overall_labels": []
+    },
+    "dataset/100.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "Violence & Harm"
+                    ],
+                    "end_time": 3
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm"
+        ]
+    },
+    "dataset/tweeload_mSSa3k.mp4": {
+        "timestamps": {
+            "2": [
+                {
+                    "start_time": 2,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 6
+                }
+            ],
+            "15": [
+                {
+                    "start_time": 15,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 21
+                }
+            ],
+            "24": [
+                {
+                    "start_time": 24,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 27
+                }
+            ],
+            "34": [
+                {
+                    "start_time": 34,
+                    "labels": [
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 36
+                }
+            ],
+            "46": [
+                {
+                    "start_time": 46,
+                    "labels": [
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 47
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Subtle)",
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_9KAaWc.mp4": {
+        "timestamps": {
+            "0": [
+                {
+                    "start_time": 0,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 2
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Subtle)",
+            "Sexual implication"
+        ]
+    },
+    "dataset/ssstwitter.com_1719154815254.mp4": {
+        "timestamps": {
+            "2": [
+                {
+                    "start_time": 2,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 4
+                }
+            ],
+            "5": [
+                {
+                    "start_time": 5,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 7
+                }
+            ],
+            "10": [
+                {
+                    "start_time": 10,
+                    "labels": [
+                        "Sexual implication"
+                    ],
+                    "end_time": 11
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_mPBpC9.mp4": {
+        "timestamps": {
+            "5": [
+                {
+                    "start_time": 5,
+                    "labels": [
+                        "Harassment",
+                        "Illegal & Anti-social",
+                        "Terrorism"
+                    ],
+                    "end_time": 20
+                }
+            ],
+            "37": [
+                {
+                    "start_time": 37,
+                    "labels": [
+                        "Harassment",
+                        "Illegal & Anti-social",
+                        "Terrorism"
+                    ],
+                    "end_time": 54
+                }
+            ],
+            "87": [
+                {
+                    "start_time": 87,
+                    "labels": [
+                        "Harassment",
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 96
+                }
+            ],
+            "114": [
+                {
+                    "start_time": 114,
+                    "labels": [
+                        "Harassment",
+                        "Illegal & Anti-social",
+                        "Terrorism"
+                    ],
+                    "end_time": 123
+                }
+            ]
+        },
+        "overall_labels": [
+            "Terrorism",
+            "Harassment",
+            "Illegal & Anti-social"
+        ]
+    },
+    "dataset/tweeload_UgNuRD.mp4": {
+        "timestamps": {
+            "2": [
+                {
+                    "start_time": 2,
+                    "labels": [
+                        "Harassment",
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 4
+                }
+            ],
+            "11": [
+                {
+                    "start_time": 11,
+                    "labels": [
+                        "Harassment",
+                        "Illegal & Anti-social",
+                        "Terrorism"
+                    ],
+                    "end_time": 13
+                }
+            ],
+            "30": [
+                {
+                    "start_time": 30,
+                    "labels": [
+                        "Harassment",
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 34
+                }
+            ]
+        },
+        "overall_labels": [
+            "Terrorism",
+            "Harassment",
+            "Illegal & Anti-social"
+        ]
+    },
+    "dataset/tweeload_fqS6Ui.mp4": {
+        "timestamps": {
+            "0": [
+                {
+                    "start_time": 0,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 6
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Subtle)",
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_oDdaNJ.mp4": {
+        "timestamps": {
+            "2": [
+                {
+                    "start_time": 2,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 6
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Subtle)",
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_07ePih.mp4": {
+        "timestamps": {},
+        "overall_labels": []
+    },
+    "dataset/tweeload_Qq7ruU.mp4": {
+        "timestamps": {},
+        "overall_labels": []
+    },
+    "dataset/tweeload_pQ5UPz.mp4": {
+        "timestamps": {
+            "2": [
+                {
+                    "start_time": 2,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 4
+                }
+            ],
+            "7": [
+                {
+                    "start_time": 7,
+                    "labels": [
+                        "Harassment"
+                    ],
+                    "end_time": 9
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Harassment"
+        ]
+    },
+    "dataset/tweeload_nGZadL.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 3
+                }
+            ],
+            "9": [
+                {
+                    "start_time": 9,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 10
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Harassment"
+        ]
+    },
+    "dataset/tweeload_HEA8zA.mp4": {
+        "timestamps": {
+            "17": [
+                {
+                    "start_time": 17,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Evident)"
+                    ],
+                    "end_time": 19
+                }
+            ],
+            "34": [
+                {
+                    "start_time": 34,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 37
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Evident)",
+            "Sexual content (Subtle)",
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_asXZ3c.mp4": {
+        "timestamps": {
+            "3": [
+                {
+                    "start_time": 3,
+                    "labels": [
+                        "Harassment"
+                    ],
+                    "end_time": 7
+                }
+            ],
+            "9": [
+                {
+                    "start_time": 9,
+                    "labels": [
+                        "Harassment",
+                        "Violence & Harm"
+                    ],
+                    "end_time": 14
+                }
+            ]
+        },
+        "overall_labels": [
+            "Violence & Harm",
+            "Harassment"
+        ]
+    },
+    "dataset/tweeload_w5XIgM.mp4": {
+        "timestamps": {
+            "0": [
+                {
+                    "start_time": 0,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 3
+                }
+            ],
+            "8": [
+                {
+                    "start_time": 8,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Evident)"
+                    ],
+                    "end_time": 30
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Evident)",
+            "Sexual content (Subtle)",
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_4IguG3.mp4": {
+        "timestamps": {
+            "26": [
+                {
+                    "start_time": 26,
+                    "labels": [
+                        "Illegal & Anti-social"
+                    ],
+                    "end_time": 40
+                }
+            ]
+        },
+        "overall_labels": [
+            "Illegal & Anti-social"
+        ]
+    },
+    "dataset/tweeload_vnF4dQ.mp4": {
+        "timestamps": {
+            "1": [
+                {
+                    "start_time": 1,
+                    "labels": [
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 2
+                }
+            ],
+            "4": [
+                {
+                    "start_time": 4,
+                    "labels": [
+                        "Sexual content (Subtle)"
+                    ],
+                    "end_time": 5
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Subtle)"
+        ]
+    },
+    "dataset/tweeload_PJrc7H.mp4": {
+        "timestamps": {
+            "0": [
+                {
+                    "start_time": 0,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Evident)"
+                    ],
+                    "end_time": 3
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Evident)",
+            "Sexual implication"
+        ]
+    },
+    "dataset/tweeload_Sj0On2.mp4": {
+        "timestamps": {
+            "5": [
+                {
+                    "start_time": 5,
+                    "labels": [
+                        "None"
+                    ],
+                    "end_time": 30
+                }
+            ]
+        },
+        "overall_labels": [
+            "None"
+        ]
+    },
+    "dataset/tweeload_xJ4XDz.mp4": {
+        "timestamps": {
+            "0": [
+                {
+                    "start_time": 0,
+                    "labels": [
+                        "Sexual implication",
+                        "Sexual content (Evident)"
+                    ],
+                    "end_time": 7
+                }
+            ],
+            "8": [
+                {
+                    "start_time": 8,
+                    "labels": [
+                        "Sexual content (Evident)"
+                    ],
+                    "end_time": 18
+                }
+            ]
+        },
+        "overall_labels": [
+            "Sexual content (Evident)",
+            "Sexual implication"
+        ]
+    }
+}
