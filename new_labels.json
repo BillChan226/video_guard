@@ -1,0 +1,690 @@
+[
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/dGGAHsQ1UUmZ3nt3.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/BRBuBFSoclFGjibR.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/6jI9O-COF1oLChOZ.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/w1ab4ledl_qxQc25.mp4",
+        "labels": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/OEAsHptB_AF-q9n2.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/Y9wIiA0gRoQuAcrI.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/MgR4fLDRnvPWa4Q1.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_Ri2air.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_oGQxQN.mp4",
+        "labels": [
+            2,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/7cY_cJJjpU6ALnpU.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/VmZybZYzvRHSqyct.mp4",
+        "labels": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/vSbHx5n6qzEsI5v5.mp4",
+        "labels": [
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/_TZgs1W9MpunU9AT.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/1.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/T--iS7zbmC3AhiQc.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/WhLT7Pwaml6Kz8h3.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_C8dPmM.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_hdFlIK.mp4",
+        "labels": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/t_Swt_7Saga_bhyE.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_STDHka.mp4",
+        "labels": [
+            2,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/p2PPdPfl9PBEJD2f.mp4",
+        "labels": [
+            2,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_AfwJsr.mp4",
+        "labels": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/w109FbtaotcGeM8c.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/Z_cNLocS5cBgqwu2.mp4",
+        "labels": [
+            6
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/_9U2gJougXVMRJxX.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/a2q-FTTjgx34OgJt.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/UV1LoK5ZOisKdbdb.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/_k3dKNKV_30-mhRt.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/YCnvqi0rhj7VrZqj.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/W7ijgqOSatFh10Sm.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_L4N5Bq.mp4",
+        "labels": [
+            3,
+            5
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_OS42ke.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/otW9DYFhQJ--FQfk.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/ssstwitter.com_1719152443478.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/z_u5elLfyXYv9PH-.mp4",
+        "labels": [
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/caNiYQd3cMiWeZZl.mp4",
+        "labels": [
+            1,
+            2
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_tD14ol.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_E19qnz.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_ngTlJP.mp4",
+        "labels": [
+            2
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/WJrswHvfgaCH0Hl8.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_gmTC6t.mp4",
+        "labels": [
+            3,
+            5
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/cmFhofzwf0Jx-gyf.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_4xlD8i.mp4",
+        "labels": [
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/J6fpU_SES0WEqAZc.mp4",
+        "labels": [
+            2,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/FZVkSrz0YaLfAm7R.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/Ip9Jen8wpWTc_JLK.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_Q2V90G.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_7Jd90U.mp4",
+        "labels": [
+            5
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/DT4A0wekiplxkIn9.mp4",
+        "labels": [
+            2,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_zCEbfJ.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_M5wOsU.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/sjWUtofGYiFeUBe5.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_goL2Pe.mp4",
+        "labels": [
+            2
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_TekAI4.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_XPrynk.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/qfUYtGydfShrCqlG.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/uK1lxt_Q6_X-v77Q.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_3wH8ws.mp4",
+        "labels": [
+            2,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/i6dXddy42DY_abZS.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/qpJSiF3WNxPFfKHh.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_ltO7Wa.mp4",
+        "labels": [
+            6
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_pcXCTQ.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/ZJ8L7m2GlMKkhu3A.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_AOdqMK.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/U8Mk7HTkzwyOkG5n.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/IXWrlrXOSmHRgiEJ.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/WS_Tz9H_8DU0MX8v.mp4",
+        "labels": [
+            2,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_ZVzdPo.mp4",
+        "labels": [
+            2
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/npITdRKXgcDeGJuE.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/pt_ThN9UlUHkWVut.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/wL1sZVnXYzkygGeZ.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/osD5Mw4Bbd3khrYE.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/fC4mWkj_VyYR29B7.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_frf1qJ.mp4",
+        "labels": [
+            2
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/FDnJZki0ooX8KbBJ.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_CkxRDk.mp4",
+        "labels": [
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/--oGeyYxur_Ps1f5.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_i8wiJx.mp4",
+        "labels": [
+            2
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_fPGMcu.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/100.mp4",
+        "labels": [
+            2,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_mSSa3k.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_9KAaWc.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/V_Cl2WCOW44rnedf.mp4",
+        "labels": [
+            3,
+            5
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/ssstwitter.com_1719154815254.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/YVcgkfQyHvMT6JQP.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/7k3yBBIFlHNOZWmS.mp4",
+        "labels": [
+            6
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_mPBpC9.mp4",
+        "labels": [
+            2,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_UgNuRD.mp4",
+        "labels": [
+            2
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_fqS6Ui.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/HXvoO5WV_rVDJiHr.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/xxvq7Y8xceGEwNhS.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_oDdaNJ.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/CK-CrSkr4nhqCO4q.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/HqRvSNhUV5jt7ZJ2.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/zbRxl2xnt3tLNOqW.mp4",
+        "labels": [
+            1,
+            2
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/sXblAc3Z_JHd_3Vz.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/nQYndwCfr7OxJW1h.mp4",
+        "labels": [
+            6
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_07ePih.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/ywY56-83myX-RQ91.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_Qq7ruU.mp4",
+        "labels": [
+            2,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/yxTYSx79-1J2YwL2.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/hPhVgqgHRua0E0hy.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_pQ5UPz.mp4",
+        "labels": [
+            2
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/cggKuYocIDTHESCh.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/BxKTf6_51XDFTT_q.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_nGZadL.mp4",
+        "labels": [
+            2
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_HEA8zA.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_asXZ3c.mp4",
+        "labels": [
+            2
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/hmtvwSJno4YOu1DO.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/HVSkFnga481Cua7W.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_w5XIgM.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/YVP-BYhEdePk2Q91.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_4IguG3.mp4",
+        "labels": [
+            5
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/5MBy-joyN96LR4-C.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/Htb8Z0SBmCJVjBzL.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/Owg8W3MXN0PecqxZ.mp4",
+        "labels": [
+            1,
+            3
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_PJrc7H.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/kR85G207JY_g1iOu.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_Sj0On2.mp4",
+        "labels": []
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/tweeload_xJ4XDz.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/s5CthOlbUn9mKo_g.mp4",
+        "labels": [
+            1
+        ]
+    },
+    {
+        "video_path": "/Users/zhaorunchen/Desktop/video_guard/dataset/t8RophAggfVxcMt8.mp4",
+        "labels": []
+    }
+]
